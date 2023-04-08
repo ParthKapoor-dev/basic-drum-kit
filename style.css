@@ -1,0 +1,15 @@
+.box{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+    margin:10px;
+    border:8px solid black;
+    transition:all 0.07s;
+
+}
+.onclick{
+    transform: scale(1.1);
+    border-color: yellow;
+    background-color: white;
+}
